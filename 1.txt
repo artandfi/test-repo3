@@ -1,1 +1,1 @@
-Shapoes: ellipse, whatever
+Shapoes: circle, whatever
